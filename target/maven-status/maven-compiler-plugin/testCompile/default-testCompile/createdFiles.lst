@@ -1,0 +1,15 @@
+api\payload\Tag.class
+api\payload\Category.class
+api\test\UserTests.class
+api\utilities\ExtentReportManager.class
+api\test\PetTests.class
+api\utilities\DataProviders.class
+api\endpoints\UserEndPoints.class
+api\endpoints\Routes.class
+api\endpoints\UserEndPoints2.class
+api\test\DDTesst.class
+api\test\UserTests2.class
+api\payload\UserPojo.class
+api\endpoints\PetsEndPoints.class
+api\utilities\XLUtility.class
+api\payload\PetPojo.class
